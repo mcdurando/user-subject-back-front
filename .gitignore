@@ -1,0 +1,42 @@
+# BACK-END
+auth-test-api/.git
+auth-test-api/node_modules
+auth-test-api/public/build
+auth-test-api/public/hot
+auth-test-api/public/storage
+auth-test-api/storage/*.key
+auth-test-api/vendor
+auth-test-api/.env
+auth-test-api/.env.backup
+auth-test-api/.phpunit.result.cache
+auth-test-api/Homestead.json
+auth-test-api/Homestead.yaml
+auth-test-api/auth.json
+auth-test-api/npm-debug.log
+auth-test-api/yarn-error.log
+auth-test-api/.idea
+auth-test-api/.vscode
+
+
+
+# FRONT-END
+auth-test-front/.git
+auth-test-front/.DS_Store
+auth-test-front/node_modules
+auth-test-front/dist
+# local env files
+auth-test-front/.env.local
+auth-test-front/.env.*.local
+# Log files
+auth-test-front/npm-debug.log*
+auth-test-front/yarn-debug.log*
+auth-test-front/yarn-error.log*
+auth-test-front/pnpm-debug.log*
+# Editor directories and files
+auth-test-front/.idea
+auth-test-front/.vscode
+auth-test-front/*.suo
+auth-test-front/*.ntvs*
+auth-test-front/*.njsproj
+auth-test-front/*.sln
+auth-test-front/*.sw?
